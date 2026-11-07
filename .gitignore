@@ -1,0 +1,13 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.DS_Store
+# Archivo generado por build_runner (se puede regenerar)
+# lib/data/base_datos.g.dart
